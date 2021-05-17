@@ -1,0 +1,9 @@
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/bin/Debug/netcoreapp3.1/BenLife.Core.deps.json
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/bin/Debug/netcoreapp3.1/BenLife.Core.dll
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/bin/Debug/netcoreapp3.1/BenLife.Core.pdb
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/obj/Debug/netcoreapp3.1/BenLife.Core.csprojAssemblyReference.cache
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/obj/Debug/netcoreapp3.1/BenLife.Core.AssemblyInfoInputs.cache
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/obj/Debug/netcoreapp3.1/BenLife.Core.AssemblyInfo.cs
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/obj/Debug/netcoreapp3.1/BenLife.Core.csproj.CoreCompileInputs.cache
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/obj/Debug/netcoreapp3.1/BenLife.Core.dll
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Core/obj/Debug/netcoreapp3.1/BenLife.Core.pdb

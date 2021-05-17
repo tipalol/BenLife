@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BenLife.Core/1.0.0": {
+        "runtime": {
+          "BenLife.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BenLife.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
