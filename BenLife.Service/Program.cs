@@ -12,7 +12,7 @@ namespace BenLife.Service
         {
             Log.Logger = new LoggerConfiguration()
                 .MinimumLevel.Debug()
-                .WriteTo.Console()
+                //.WriteTo.Console()
                 .WriteTo.File("logs/benLife.txt", rollingInterval: RollingInterval.Day)
                 .CreateLogger();
             
