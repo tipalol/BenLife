@@ -17,7 +17,7 @@ namespace BenLife.Service
                 .MinimumLevel.Debug()
                 .WriteTo.Http("127.0.0.1:9660")
                 //.WriteTo.Console()
-                .WriteTo.File($"{logsPath}/benLife.txt", rollingInterval: RollingInterval.Day)
+                .WriteTo.File($"{logsPath}/benLife.log", rollingInterval: RollingInterval.Day)
                 .CreateLogger();
             
             var benFactory = new BenFactory();
