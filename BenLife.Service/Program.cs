@@ -10,11 +10,14 @@ namespace BenLife.Service
     {
         static async Task Main(string[] args)
         {
+            var homeDirectory = Environment.GetEnvironmentVariable("$HOME", EnvironmentVariableTarget.User);
+            var logsPath = homeDirectory + "/var/log/";
+            
             Log.Logger = new LoggerConfiguration()
                 .MinimumLevel.Debug()
                 .WriteTo.Http("127.0.0.1:9660")
                 //.WriteTo.Console()
-                .WriteTo.File("logs/benLife.txt", rollingInterval: RollingInterval.Day)
+                .WriteTo.File($"{logsPath}/benLife.txt", rollingInterval: RollingInterval.Day)
                 .CreateLogger();
             
             var benFactory = new BenFactory();

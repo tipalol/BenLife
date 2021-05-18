@@ -17,3 +17,9 @@
 /Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/obj/Debug/netcoreapp3.1/BenLife.Service.dll
 /Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/obj/Debug/netcoreapp3.1/BenLife.Service.pdb
 /Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/obj/Debug/netcoreapp3.1/BenLife.Service.genruntimeconfig.cache
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/bin/Debug/netcoreapp3.1/Serilog.Sinks.Http.dll
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/bin/Debug/netcoreapp3.1/Serilog.Sinks.PeriodicBatching.dll
+/Users/sorokindmitrij/RiderProjects/BenLife/BenLife.Service/bin/Debug/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
